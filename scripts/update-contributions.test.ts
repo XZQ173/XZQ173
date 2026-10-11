@@ -2,8 +2,8 @@ import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import { collectContributions, collectFromRepositories, renderContributions, replaceContributions, START, END } from './update-contributions.ts';
 
-const config = { username: 'Xx-173', carryOverContributions: [{ repository: 'tt-a1i/archify', originalPullRequest: 502, mergedPullRequest: 504, authorCommit: 'author-sha' }] };
-const item = (number: number, repository = 'example/project') => ({ user: { login: 'Xx-173' }, repository_url: `https://api.github.com/repos/${repository}`, number, pull_request: { merged_at: '2026-10-06T00:00:00Z' } });
+const config = { username: 'XZQ173', carryOverContributions: [{ repository: 'tt-a1i/archify', originalPullRequest: 502, mergedPullRequest: 504, authorCommit: 'author-sha' }] };
+const item = (number: number, repository = 'example/project') => ({ user: { login: 'XZQ173' }, repository_url: `https://api.github.com/repos/${repository}`, number, pull_request: { merged_at: '2026-10-06T00:00:00Z' } });
 function api(items: ReturnType<typeof item>[], override: Record<string, unknown> = {}) {
   return async (path: string) => {
     if (Object.hasOwn(override, path)) return override[path];
@@ -13,7 +13,7 @@ function api(items: ReturnType<typeof item>[], override: Record<string, unknown>
     }
     if (path.endsWith('/pulls/504')) return { merged: true, merged_at: '2026-09-22T14:56:43Z' };
     if (path.includes('/pulls/504/commits')) return [{ sha: 'author-sha' }];
-    if (path.endsWith('/commits/author-sha')) return { author: { login: 'Xx-173' } };
+    if (path.endsWith('/commits/author-sha')) return { author: { login: 'XZQ173' } };
     return { stargazers_count: path.includes('archify') ? 78525 : 100, private: false };
   };
 }
@@ -66,16 +66,16 @@ test('repository fallback preserves history and discovers a new merged project w
   };
   const get = async (path: string) => {
     if (path.startsWith('/search/issues')) throw new Error('Author search must not be used.');
-    if (path.startsWith('/users/')) return [{ repo: { name: 'new/project' } }, { repo: { name: 'Xx-173/own-project' } }];
+    if (path.startsWith('/users/')) return [{ repo: { name: 'new/project' } }, { repo: { name: 'XZQ173/own-project' } }];
     if (path.startsWith('/repos/old/project/pulls?')) return [];
     if (path.startsWith('/repos/new/project/pulls?')) return [
-      { number: 2, user: { login: 'Xx-173' }, merged_at: '2026-10-06T01:00:00Z' },
-      { number: 3, user: { login: 'Xx-173' }, merged_at: null },
+      { number: 2, user: { login: 'XZQ173' }, merged_at: '2026-10-06T01:00:00Z' },
+      { number: 3, user: { login: 'XZQ173' }, merged_at: null },
       { number: 4, user: { login: 'someone-else' }, merged_at: '2026-10-06T01:00:00Z' },
     ];
     return { stargazers_count: 100, private: false };
   };
-  const result = await collectFromRepositories({ username: 'Xx-173', carryOverContributions: [] }, get, previous);
+  const result = await collectFromRepositories({ username: 'XZQ173', carryOverContributions: [] }, get, previous);
   assert.equal(result.repositories.flatMap(repo => repo.contributions).length, 2);
   assert.deepEqual(result.watchedRepositories, ['new/project', 'old/project']);
   assert.equal(result.repositories.find(repo => repo.repository === 'old/project')!.contributions[0].number, 1);
