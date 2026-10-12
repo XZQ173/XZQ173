@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-11T07:18:24.806Z",
+  "updatedAt": "2026-10-12T05:48:58.371Z",
   "repositories": [
     {
       "repository": "bytedance/deer-flow",
-      "stars": 83674,
+      "stars": 83716,
       "contributions": [
         {
           "repository": "bytedance/deer-flow",
@@ -15,7 +15,7 @@
     },
     {
       "repository": "tt-a1i/archify",
-      "stars": 81776,
+      "stars": 82186,
       "contributions": [
         {
           "repository": "tt-a1i/archify",
@@ -29,7 +29,7 @@
     },
     {
       "repository": "cline/cline",
-      "stars": 70142,
+      "stars": 70192,
       "contributions": [
         {
           "repository": "cline/cline",
@@ -41,7 +41,7 @@
     },
     {
       "repository": "agno-agi/agno",
-      "stars": 42655,
+      "stars": 42678,
       "contributions": [
         {
           "repository": "agno-agi/agno",
@@ -53,7 +53,7 @@
     },
     {
       "repository": "assistant-ui/assistant-ui",
-      "stars": 12468,
+      "stars": 12486,
       "contributions": [
         {
           "repository": "assistant-ui/assistant-ui",
@@ -65,7 +65,7 @@
     },
     {
       "repository": "iflytek/astron-agent",
-      "stars": 8888,
+      "stars": 8892,
       "contributions": [
         {
           "repository": "iflytek/astron-agent",
@@ -100,8 +100,20 @@
       ]
     },
     {
+      "repository": "LazyAGI/LazyLLM",
+      "stars": 3887,
+      "contributions": [
+        {
+          "repository": "LazyAGI/LazyLLM",
+          "number": 1350,
+          "mergedAt": "2026-10-12T00:25:59Z",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
       "repository": "aliyun/ai-agent-handbook",
-      "stars": 1360,
+      "stars": 1386,
       "contributions": [
         {
           "repository": "aliyun/ai-agent-handbook",
@@ -113,7 +125,7 @@
     },
     {
       "repository": "langchain-ai/docs",
-      "stars": 427,
+      "stars": 428,
       "contributions": [
         {
           "repository": "langchain-ai/docs",
@@ -143,7 +155,7 @@
     },
     {
       "repository": "EvovexAI/EvoFlow",
-      "stars": 355,
+      "stars": 362,
       "contributions": [
         {
           "repository": "EvovexAI/EvoFlow",
@@ -210,6 +222,7 @@
     "simonlin1212/a-stock-data",
     "simonlin1212/global-stock-data",
     "supabase/supabase",
-    "tt-a1i/archify"
+    "tt-a1i/archify",
+    "zhangxiangliang/stock-api"
   ]
 }
