@@ -72,21 +72,21 @@
 
 <!-- CONTRIBUTIONS:START -->
 
-已向 **10 个开源项目**贡献 **21 项已合入贡献**。
+已向 **10 个开源项目**贡献 **28 项已合入贡献**。
 
 | 项目 | Stars | 已合入贡献 |
 | :--- | ---: | ---: |
-| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 83,716 | 1 |
-| [tt-a1i/archify](https://github.com/tt-a1i/archify) | 82,186 | 1 |
-| [cline/cline](https://github.com/cline/cline) | 70,192 | 1 |
-| [agno-agi/agno](https://github.com/agno-agi/agno) | 42,678 | 1 |
-| [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui) | 12,486 | 1 |
-| [iflytek/astron-agent](https://github.com/iflytek/astron-agent) | 8,892 | 5 |
-| [LazyAGI/LazyLLM](https://github.com/LazyAGI/LazyLLM) | 3,887 | 1 |
-| [aliyun/ai-agent-handbook](https://github.com/aliyun/ai-agent-handbook) | 1,386 | 1 |
-| [langchain-ai/docs](https://github.com/langchain-ai/docs) | 428 | 4 |
-| [EvovexAI/EvoFlow](https://github.com/EvovexAI/EvoFlow) | 362 | 5 |
+| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 83,774 | 1 |
+| [tt-a1i/archify](https://github.com/tt-a1i/archify) | 82,711 | 1 |
+| [cline/cline](https://github.com/cline/cline) | 70,258 | 1 |
+| [agno-agi/agno](https://github.com/agno-agi/agno) | 42,696 | 1 |
+| [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui) | 12,503 | 1 |
+| [iflytek/astron-agent](https://github.com/iflytek/astron-agent) | 8,893 | 5 |
+| [LazyAGI/LazyLLM](https://github.com/LazyAGI/LazyLLM) | 3,888 | 2 |
+| [aliyun/ai-agent-handbook](https://github.com/aliyun/ai-agent-handbook) | 1,417 | 1 |
+| [langchain-ai/docs](https://github.com/langchain-ai/docs) | 429 | 4 |
+| [EvovexAI/EvoFlow](https://github.com/EvovexAI/EvoFlow) | 372 | 11 |
 
-<sub>每天自动同步 · 统计更新于 2026-10-12 13:48（北京时间） · 包含本人 20 个已合并 PR 和 1 项保留作者署名的转接合入贡献。</sub>
+<sub>每天自动同步 · 统计更新于 2026-10-13 14:43（北京时间） · 包含本人 27 个已合并 PR 和 1 项保留作者署名的转接合入贡献。</sub>
 
 <!-- CONTRIBUTIONS:END -->

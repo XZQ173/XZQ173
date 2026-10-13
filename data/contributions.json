@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-12T05:48:58.371Z",
+  "updatedAt": "2026-10-13T06:43:05.950Z",
   "repositories": [
     {
       "repository": "bytedance/deer-flow",
-      "stars": 83716,
+      "stars": 83774,
       "contributions": [
         {
           "repository": "bytedance/deer-flow",
@@ -15,7 +15,7 @@
     },
     {
       "repository": "tt-a1i/archify",
-      "stars": 82186,
+      "stars": 82711,
       "contributions": [
         {
           "repository": "tt-a1i/archify",
@@ -29,7 +29,7 @@
     },
     {
       "repository": "cline/cline",
-      "stars": 70192,
+      "stars": 70258,
       "contributions": [
         {
           "repository": "cline/cline",
@@ -41,7 +41,7 @@
     },
     {
       "repository": "agno-agi/agno",
-      "stars": 42678,
+      "stars": 42696,
       "contributions": [
         {
           "repository": "agno-agi/agno",
@@ -53,7 +53,7 @@
     },
     {
       "repository": "assistant-ui/assistant-ui",
-      "stars": 12486,
+      "stars": 12503,
       "contributions": [
         {
           "repository": "assistant-ui/assistant-ui",
@@ -65,7 +65,7 @@
     },
     {
       "repository": "iflytek/astron-agent",
-      "stars": 8892,
+      "stars": 8893,
       "contributions": [
         {
           "repository": "iflytek/astron-agent",
@@ -101,8 +101,14 @@
     },
     {
       "repository": "LazyAGI/LazyLLM",
-      "stars": 3887,
+      "stars": 3888,
       "contributions": [
+        {
+          "repository": "LazyAGI/LazyLLM",
+          "number": 1346,
+          "mergedAt": "2026-10-12T09:53:01Z",
+          "kind": "direct"
+        },
         {
           "repository": "LazyAGI/LazyLLM",
           "number": 1350,
@@ -113,7 +119,7 @@
     },
     {
       "repository": "aliyun/ai-agent-handbook",
-      "stars": 1386,
+      "stars": 1417,
       "contributions": [
         {
           "repository": "aliyun/ai-agent-handbook",
@@ -125,7 +131,7 @@
     },
     {
       "repository": "langchain-ai/docs",
-      "stars": 428,
+      "stars": 429,
       "contributions": [
         {
           "repository": "langchain-ai/docs",
@@ -155,7 +161,7 @@
     },
     {
       "repository": "EvovexAI/EvoFlow",
-      "stars": 362,
+      "stars": 372,
       "contributions": [
         {
           "repository": "EvovexAI/EvoFlow",
@@ -185,6 +191,42 @@
           "repository": "EvovexAI/EvoFlow",
           "number": 57,
           "mergedAt": "2026-09-29T02:58:02Z",
+          "kind": "direct"
+        },
+        {
+          "repository": "EvovexAI/EvoFlow",
+          "number": 59,
+          "mergedAt": "2026-10-12T09:36:00Z",
+          "kind": "direct"
+        },
+        {
+          "repository": "EvovexAI/EvoFlow",
+          "number": 60,
+          "mergedAt": "2026-10-12T09:35:43Z",
+          "kind": "direct"
+        },
+        {
+          "repository": "EvovexAI/EvoFlow",
+          "number": 61,
+          "mergedAt": "2026-10-12T09:34:44Z",
+          "kind": "direct"
+        },
+        {
+          "repository": "EvovexAI/EvoFlow",
+          "number": 62,
+          "mergedAt": "2026-10-12T09:34:30Z",
+          "kind": "direct"
+        },
+        {
+          "repository": "EvovexAI/EvoFlow",
+          "number": 63,
+          "mergedAt": "2026-10-12T09:34:16Z",
+          "kind": "direct"
+        },
+        {
+          "repository": "EvovexAI/EvoFlow",
+          "number": 64,
+          "mergedAt": "2026-10-12T09:34:03Z",
           "kind": "direct"
         }
       ]
