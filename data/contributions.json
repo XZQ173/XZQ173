@@ -1,21 +1,9 @@
 {
-  "updatedAt": "2026-10-15T04:29:32.904Z",
+  "updatedAt": "2026-10-16T04:23:56.466Z",
   "repositories": [
     {
-      "repository": "bytedance/deer-flow",
-      "stars": 83876,
-      "contributions": [
-        {
-          "repository": "bytedance/deer-flow",
-          "number": 5667,
-          "mergedAt": "2026-10-03T06:35:10Z",
-          "kind": "direct"
-        }
-      ]
-    },
-    {
       "repository": "tt-a1i/archify",
-      "stars": 83663,
+      "stars": 84130,
       "contributions": [
         {
           "repository": "tt-a1i/archify",
@@ -28,8 +16,20 @@
       ]
     },
     {
+      "repository": "bytedance/deer-flow",
+      "stars": 83925,
+      "contributions": [
+        {
+          "repository": "bytedance/deer-flow",
+          "number": 5667,
+          "mergedAt": "2026-10-03T06:35:10Z",
+          "kind": "direct"
+        }
+      ]
+    },
+    {
       "repository": "cline/cline",
-      "stars": 70339,
+      "stars": 70381,
       "contributions": [
         {
           "repository": "cline/cline",
@@ -41,7 +41,7 @@
     },
     {
       "repository": "agno-agi/agno",
-      "stars": 42735,
+      "stars": 42762,
       "contributions": [
         {
           "repository": "agno-agi/agno",
@@ -53,7 +53,7 @@
     },
     {
       "repository": "assistant-ui/assistant-ui",
-      "stars": 12548,
+      "stars": 12567,
       "contributions": [
         {
           "repository": "assistant-ui/assistant-ui",
@@ -65,7 +65,7 @@
     },
     {
       "repository": "iflytek/astron-agent",
-      "stars": 8899,
+      "stars": 8906,
       "contributions": [
         {
           "repository": "iflytek/astron-agent",
@@ -125,7 +125,7 @@
     },
     {
       "repository": "aliyun/ai-agent-handbook",
-      "stars": 1597,
+      "stars": 1625,
       "contributions": [
         {
           "repository": "aliyun/ai-agent-handbook",
@@ -167,7 +167,7 @@
     },
     {
       "repository": "EvovexAI/EvoFlow",
-      "stars": 397,
+      "stars": 420,
       "contributions": [
         {
           "repository": "EvovexAI/EvoFlow",
