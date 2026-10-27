@@ -76,17 +76,17 @@
 
 | 项目 | Stars | 已合入贡献 |
 | :--- | ---: | ---: |
-| [tt-a1i/archify](https://github.com/tt-a1i/archify) | 89,307 | 1 |
-| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 84,424 | 1 |
-| [cline/cline](https://github.com/cline/cline) | 70,850 | 1 |
-| [agno-agi/agno](https://github.com/agno-agi/agno) | 42,890 | 1 |
-| [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui) | 12,743 | 1 |
-| [iflytek/astron-agent](https://github.com/iflytek/astron-agent) | 8,926 | 6 |
-| [LazyAGI/LazyLLM](https://github.com/LazyAGI/LazyLLM) | 3,887 | 2 |
-| [aliyun/ai-agent-handbook](https://github.com/aliyun/ai-agent-handbook) | 2,389 | 1 |
-| [EvovexAI/EvoFlow](https://github.com/EvovexAI/EvoFlow) | 516 | 11 |
+| [tt-a1i/archify](https://github.com/tt-a1i/archify) | 89,946 | 1 |
+| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 84,456 | 1 |
+| [cline/cline](https://github.com/cline/cline) | 70,907 | 1 |
+| [agno-agi/agno](https://github.com/agno-agi/agno) | 42,912 | 1 |
+| [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui) | 12,769 | 1 |
+| [iflytek/astron-agent](https://github.com/iflytek/astron-agent) | 8,930 | 6 |
+| [LazyAGI/LazyLLM](https://github.com/LazyAGI/LazyLLM) | 3,888 | 2 |
+| [aliyun/ai-agent-handbook](https://github.com/aliyun/ai-agent-handbook) | 2,415 | 1 |
+| [EvovexAI/EvoFlow](https://github.com/EvovexAI/EvoFlow) | 521 | 11 |
 | [langchain-ai/docs](https://github.com/langchain-ai/docs) | 441 | 4 |
 
-<sub>每天自动同步 · 统计更新于 2026-10-26 12:37（北京时间） · 包含本人 28 个已合并 PR 和 1 项保留作者署名的转接合入贡献。</sub>
+<sub>每天自动同步 · 统计更新于 2026-10-27 12:55（北京时间） · 包含本人 28 个已合并 PR 和 1 项保留作者署名的转接合入贡献。</sub>
 
 <!-- CONTRIBUTIONS:END -->
