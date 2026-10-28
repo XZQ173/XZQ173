@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-27T04:55:46.997Z",
+  "updatedAt": "2026-10-28T05:30:42.605Z",
   "repositories": [
     {
       "repository": "tt-a1i/archify",
-      "stars": 89946,
+      "stars": 90592,
       "contributions": [
         {
           "repository": "tt-a1i/archify",
@@ -17,7 +17,7 @@
     },
     {
       "repository": "bytedance/deer-flow",
-      "stars": 84456,
+      "stars": 84515,
       "contributions": [
         {
           "repository": "bytedance/deer-flow",
@@ -29,7 +29,7 @@
     },
     {
       "repository": "cline/cline",
-      "stars": 70907,
+      "stars": 70944,
       "contributions": [
         {
           "repository": "cline/cline",
@@ -41,7 +41,7 @@
     },
     {
       "repository": "agno-agi/agno",
-      "stars": 42912,
+      "stars": 42926,
       "contributions": [
         {
           "repository": "agno-agi/agno",
@@ -53,7 +53,7 @@
     },
     {
       "repository": "assistant-ui/assistant-ui",
-      "stars": 12769,
+      "stars": 12791,
       "contributions": [
         {
           "repository": "assistant-ui/assistant-ui",
@@ -65,7 +65,7 @@
     },
     {
       "repository": "iflytek/astron-agent",
-      "stars": 8930,
+      "stars": 8933,
       "contributions": [
         {
           "repository": "iflytek/astron-agent",
@@ -107,7 +107,7 @@
     },
     {
       "repository": "LazyAGI/LazyLLM",
-      "stars": 3888,
+      "stars": 3889,
       "contributions": [
         {
           "repository": "LazyAGI/LazyLLM",
@@ -125,7 +125,7 @@
     },
     {
       "repository": "aliyun/ai-agent-handbook",
-      "stars": 2415,
+      "stars": 2449,
       "contributions": [
         {
           "repository": "aliyun/ai-agent-handbook",
@@ -137,7 +137,7 @@
     },
     {
       "repository": "EvovexAI/EvoFlow",
-      "stars": 521,
+      "stars": 523,
       "contributions": [
         {
           "repository": "EvovexAI/EvoFlow",
@@ -209,7 +209,7 @@
     },
     {
       "repository": "langchain-ai/docs",
-      "stars": 441,
+      "stars": 442,
       "contributions": [
         {
           "repository": "langchain-ai/docs",
