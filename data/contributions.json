@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-28T05:30:42.605Z",
+  "updatedAt": "2026-10-29T05:39:42.051Z",
   "repositories": [
     {
       "repository": "tt-a1i/archify",
-      "stars": 90592,
+      "stars": 91101,
       "contributions": [
         {
           "repository": "tt-a1i/archify",
@@ -17,7 +17,7 @@
     },
     {
       "repository": "bytedance/deer-flow",
-      "stars": 84515,
+      "stars": 84611,
       "contributions": [
         {
           "repository": "bytedance/deer-flow",
@@ -29,7 +29,7 @@
     },
     {
       "repository": "cline/cline",
-      "stars": 70944,
+      "stars": 71007,
       "contributions": [
         {
           "repository": "cline/cline",
@@ -41,7 +41,7 @@
     },
     {
       "repository": "agno-agi/agno",
-      "stars": 42926,
+      "stars": 42942,
       "contributions": [
         {
           "repository": "agno-agi/agno",
@@ -53,7 +53,7 @@
     },
     {
       "repository": "assistant-ui/assistant-ui",
-      "stars": 12791,
+      "stars": 12804,
       "contributions": [
         {
           "repository": "assistant-ui/assistant-ui",
@@ -65,7 +65,7 @@
     },
     {
       "repository": "iflytek/astron-agent",
-      "stars": 8933,
+      "stars": 8940,
       "contributions": [
         {
           "repository": "iflytek/astron-agent",
@@ -125,7 +125,7 @@
     },
     {
       "repository": "aliyun/ai-agent-handbook",
-      "stars": 2449,
+      "stars": 2478,
       "contributions": [
         {
           "repository": "aliyun/ai-agent-handbook",
@@ -137,7 +137,7 @@
     },
     {
       "repository": "EvovexAI/EvoFlow",
-      "stars": 523,
+      "stars": 527,
       "contributions": [
         {
           "repository": "EvovexAI/EvoFlow",
