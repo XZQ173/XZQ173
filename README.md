@@ -76,17 +76,17 @@
 
 | 项目 | Stars | 已合入贡献 |
 | :--- | ---: | ---: |
-| [tt-a1i/archify](https://github.com/tt-a1i/archify) | 93,584 | 1 |
-| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 85,012 | 1 |
-| [cline/cline](https://github.com/cline/cline) | 71,325 | 1 |
-| [agno-agi/agno](https://github.com/agno-agi/agno) | 43,069 | 1 |
-| [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui) | 12,959 | 1 |
-| [iflytek/astron-agent](https://github.com/iflytek/astron-agent) | 8,940 | 6 |
+| [tt-a1i/archify](https://github.com/tt-a1i/archify) | 93,968 | 1 |
+| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 85,045 | 1 |
+| [cline/cline](https://github.com/cline/cline) | 71,381 | 1 |
+| [agno-agi/agno](https://github.com/agno-agi/agno) | 43,077 | 1 |
+| [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui) | 12,974 | 1 |
+| [iflytek/astron-agent](https://github.com/iflytek/astron-agent) | 8,919 | 6 |
 | [LazyAGI/LazyLLM](https://github.com/LazyAGI/LazyLLM) | 3,890 | 2 |
-| [aliyun/ai-agent-handbook](https://github.com/aliyun/ai-agent-handbook) | 2,873 | 1 |
-| [EvovexAI/EvoFlow](https://github.com/EvovexAI/EvoFlow) | 596 | 11 |
-| [langchain-ai/docs](https://github.com/langchain-ai/docs) | 444 | 5 |
+| [aliyun/ai-agent-handbook](https://github.com/aliyun/ai-agent-handbook) | 2,893 | 1 |
+| [EvovexAI/EvoFlow](https://github.com/EvovexAI/EvoFlow) | 599 | 11 |
+| [langchain-ai/docs](https://github.com/langchain-ai/docs) | 445 | 5 |
 
-<sub>每天自动同步 · 统计更新于 2026-11-05 14:35（北京时间） · 包含本人 29 个已合并 PR 和 1 项保留作者署名的转接合入贡献。</sub>
+<sub>每天自动同步 · 统计更新于 2026-11-06 14:30（北京时间） · 包含本人 29 个已合并 PR 和 1 项保留作者署名的转接合入贡献。</sub>
 
 <!-- CONTRIBUTIONS:END -->
